@@ -1,6 +1,6 @@
 # FocusFlow Landing Page
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Website-blue?style=for-the-badge)]()
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Website-blue?style=for-the-badge)](https://darkodukovski.github.io/focusflow-web-app/)
 
 A modern, responsive landing page built for a conceptual AI-powered workspace app called FocusFlow.
 
@@ -17,7 +17,7 @@ While this is a static landing page, it includes interactive UI components that 
 ## About the Project
 
 I built this project to practice modern web design, complex CSS layouts, and micro-interactions.
-- **Advanced UI Mockup:** The dashboard featured in the hero section is not a static image—it's a fully coded, structured UI component built from scratch using HTML and CSS (Flexbox/Grid) to demonstrate advanced layout skills.
+- **Advanced UI Mockup:** The dashboard featured in the hero section is not a static image-it's a fully coded, structured UI component built from scratch using HTML and CSS (Flexbox/Grid) to demonstrate advanced layout skills.
 - **Rich Aesthetics:** Implements glassmorphism (frosted glass effects), dynamic aurora gradients and subtle hover animations to create a premium feel.
 - **Fully Responsive:** Carefully adapted to look and behave perfectly across mobile devices, tablets and full desktop displays.
 - **Clean Code:** Built entirely from the ground up without heavy UI libraries (like Bootstrap or Tailwind) to ensure maximum control over the styling and animations.

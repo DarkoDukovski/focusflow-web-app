@@ -1,0 +1,54 @@
+/* Hero animations & layers */
+
+/* Main container */
+.hero-aurora {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+/* Hide background blobs */
+.aurora-blob-1,
+.aurora-blob-2,
+.aurora-blob-3 {
+    display: none !important;
+    opacity: 0 !important;
+}
+
+/* Hide background grid */
+.hero-grid {
+    display: none !important;
+}
+
+/* Hide particles */
+.particles-container {
+    display: none !important;
+    pointer-events: none;
+}
+
+/* Static tilt wrapper (No 3D) */
+.hero-tilt-wrapper {
+    position: relative;
+    transform: none !important;
+    perspective: none !important;
+    transform-style: flat !important;
+    transition: none !important;
+}
+
+/* Hide mockup decorative orbs */
+.mockup-orb-1,
+.mockup-orb-2 {
+    display: none !important;
+}
+
+/* Dashboard loading skeleton */
+.dashboard-skeleton {
+    animation: none !important;
+}
+
+/* Hide hover glow effect */
+.glow-effect {
+    display: none !important;
+}
